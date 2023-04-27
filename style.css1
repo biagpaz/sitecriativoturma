@@ -1,0 +1,33 @@
+}
+
+. cabecalho-imagem {
+    largura :  20 % ;
+    largura :  15 % ;
+}
+
+. cabecalho-lista-item {
+    exibição : bloco em linha;
+    margem :  0  16 px ;
+    tamanho da fonte :  24 px ;
+    tamanho da fonte :  20 px ;
+}
+
+. escola-imagem {
+    largura :  25 % ;
+}
+
+. escola {
+    background-image :  linear-gradient ( # 424E61 , # 16CFF8 );
+    cor : branco;
+    exibição : flexível;
+    justificar-conteúdo : centro;
+    itens de alinhamento : centro;
+    preenchimento :  24 px  0 ;
+}
+
+. escola-div-conteudo {
+    largura :  35 % ;
+}
+. escola-título {
+    preenchimento :  24 px  0 ;
+}
